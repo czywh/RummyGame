@@ -1,3 +1,5 @@
+![RummyGame — gameplay cover](docs/images/rummy-game-cover.png)
+
 # RummyGame
 
 A Java card game project for **Software Modelling and Design (SWEN30006), Project 2**, at the University of Melbourne, Semester 2, 2025. The project extends a supplied Rummy application with Classic and Gin variants, rule-based computer decisions, and an extensible object-oriented design.
